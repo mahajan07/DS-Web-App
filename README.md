@@ -1,4 +1,4 @@
-# DS-Web-App
+# Data Science WebApp
 ## Build a Data Science Web App with Streamlit and Python
 Going to load, explore, visualize and interact with data, and generate dashboards in less than 100 lines of Python code! 
 The project is structured into:
